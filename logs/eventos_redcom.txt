@@ -883,3 +883,1007 @@
 [2026-07-06 13:26:56] Simulación finalizada.
 [2026-07-06 13:26:56] Métricas finales: {'paquetes_enviados': 20, 'paquetes_recibidos': 16, 'paquetes_perdidos': 4, 'tasa_perdida': 20.0, 'latencia_promedio': 323.91, 'throughput': 8.0, 'eventos_congestion': 12}
 [2026-07-06 13:26:56] Gráfica de comparación generada: exports\graficas\05_comparacion_escenarios.png
+[2026-07-06 17:38:30] Sistema RedCom Analytic iniciado.
+[2026-07-06 17:38:40] Red WAN configurada.
+[2026-07-06 17:38:44] Iniciando simulación en red WAN.
+[2026-07-06 17:38:44] Origen: Host_Origen | Destino: Host_Destino
+[2026-07-06 17:38:44] Cantidad de paquetes: 20
+[2026-07-06 17:38:44] Paquete 1 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Paquete 1 recibido correctamente. Latencia total: 309.67 ms.
+[2026-07-06 17:38:44] Paquete 2 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Paquete 2 recibido correctamente. Latencia total: 308.26 ms.
+[2026-07-06 17:38:44] Paquete 3 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Paquete 3 recibido correctamente. Latencia total: 305.83 ms.
+[2026-07-06 17:38:44] Paquete 4 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Paquete 4 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 5 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Paquete 5 recibido correctamente. Latencia total: 308.14 ms.
+[2026-07-06 17:38:44] Paquete 6 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Paquete 6 recibido correctamente. Latencia total: 305.01 ms.
+[2026-07-06 17:38:44] Paquete 7 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Paquete 7 recibido correctamente. Latencia total: 301.67 ms.
+[2026-07-06 17:38:44] Paquete 8 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Paquete 8 recibido correctamente. Latencia total: 309.8 ms.
+[2026-07-06 17:38:44] Paquete 9 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 9 recibido correctamente. Latencia total: 312.18 ms.
+[2026-07-06 17:38:44] Paquete 10 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 10 recibido correctamente. Latencia total: 318.8 ms.
+[2026-07-06 17:38:44] Paquete 11 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 11 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 12 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 12 recibido correctamente. Latencia total: 333.03 ms.
+[2026-07-06 17:38:44] Paquete 13 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 13 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 14 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Paquete 14 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Paquete 15 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 15 recibido correctamente. Latencia total: 346.07 ms.
+[2026-07-06 17:38:44] Paquete 16 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 16 recibido correctamente. Latencia total: 352.29 ms.
+[2026-07-06 17:38:44] Paquete 17 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 17 recibido correctamente. Latencia total: 356.31 ms.
+[2026-07-06 17:38:44] Paquete 18 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 18 recibido correctamente. Latencia total: 362.35 ms.
+[2026-07-06 17:38:44] Paquete 19 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 19 recibido correctamente. Latencia total: 368.05 ms.
+[2026-07-06 17:38:44] Paquete 20 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:38:44] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:38:44] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:38:44] Paquete 20 recibido correctamente. Latencia total: 373.07 ms.
+[2026-07-06 17:38:44] Simulación finalizada.
+[2026-07-06 17:38:44] Métricas finales: {'paquetes_enviados': 20, 'paquetes_recibidos': 16, 'paquetes_perdidos': 4, 'tasa_perdida': 20.0, 'latencia_promedio': 329.41, 'throughput': 8.0, 'eventos_congestion': 12}
+[2026-07-06 17:38:54] Red LAN configurada.
+[2026-07-06 17:38:59] Iniciando simulación en red LAN.
+[2026-07-06 17:38:59] Origen: Host_A | Destino: Host_B
+[2026-07-06 17:38:59] Cantidad de paquetes: 20
+[2026-07-06 17:38:59] Paquete 1 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 1 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:38:59] Paquete 2 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 2 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:38:59] Paquete 3 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 3 recibido correctamente. Latencia total: 143.43 ms.
+[2026-07-06 17:38:59] Paquete 4 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 4 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:38:59] Paquete 5 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 5 recibido correctamente. Latencia total: 136.83 ms.
+[2026-07-06 17:38:59] Paquete 6 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 6 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:38:59] Paquete 7 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 7 recibido correctamente. Latencia total: 141.47 ms.
+[2026-07-06 17:38:59] Paquete 8 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 8 recibido correctamente. Latencia total: 139.19 ms.
+[2026-07-06 17:38:59] Paquete 9 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 9 recibido correctamente. Latencia total: 141.57 ms.
+[2026-07-06 17:38:59] Paquete 10 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 10 recibido correctamente. Latencia total: 137.39 ms.
+[2026-07-06 17:38:59] Paquete 11 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 11 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:38:59] Paquete 12 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 12 recibido correctamente. Latencia total: 138.17 ms.
+[2026-07-06 17:38:59] Paquete 13 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 13 recibido correctamente. Latencia total: 135.77 ms.
+[2026-07-06 17:38:59] Paquete 14 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 14 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:38:59] Paquete 15 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 15 recibido correctamente. Latencia total: 135.47 ms.
+[2026-07-06 17:38:59] Paquete 16 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 16 recibido correctamente. Latencia total: 139.15 ms.
+[2026-07-06 17:38:59] Paquete 17 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 17 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:38:59] Paquete 18 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 18 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:38:59] Paquete 19 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 19 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:38:59] Paquete 20 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:38:59] Paquete 20 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:38:59] Simulación finalizada.
+[2026-07-06 17:38:59] Métricas finales: {'paquetes_enviados': 20, 'paquetes_recibidos': 10, 'paquetes_perdidos': 10, 'tasa_perdida': 50.0, 'latencia_promedio': 138.84, 'throughput': 277.5, 'eventos_congestion': 0}
+[2026-07-06 17:39:02] Resultados exportados en CSV: exports\csv\resultados_simulacion.csv
+[2026-07-06 17:39:05] Análisis con Pandas y NumPy ejecutado correctamente.
+[2026-07-06 17:39:35] Topología cargada desde SQLite: LAN_Principal
+[2026-07-06 17:39:50] Red LAN configurada.
+[2026-07-06 17:39:55] Iniciando simulación en red LAN.
+[2026-07-06 17:39:55] Origen: Host_A | Destino: Host_B
+[2026-07-06 17:39:55] Cantidad de paquetes: 50
+[2026-07-06 17:39:55] Paquete 1 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 1 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 2 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 2 recibido correctamente. Latencia total: 144.29 ms.
+[2026-07-06 17:39:55] Paquete 3 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 3 recibido correctamente. Latencia total: 143.68 ms.
+[2026-07-06 17:39:55] Paquete 4 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 4 recibido correctamente. Latencia total: 137.67 ms.
+[2026-07-06 17:39:55] Paquete 5 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 5 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 6 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 6 recibido correctamente. Latencia total: 141.94 ms.
+[2026-07-06 17:39:55] Paquete 7 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 7 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 8 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 8 recibido correctamente. Latencia total: 141.14 ms.
+[2026-07-06 17:39:55] Paquete 9 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 9 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 10 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 10 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 11 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 11 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 12 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 12 recibido correctamente. Latencia total: 137.53 ms.
+[2026-07-06 17:39:55] Paquete 13 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 13 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 14 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 14 recibido correctamente. Latencia total: 141.84 ms.
+[2026-07-06 17:39:55] Paquete 15 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 15 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 16 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 16 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 17 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 17 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 18 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 18 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 19 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 19 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 20 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 20 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 21 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 21 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 22 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 22 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 23 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 23 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 24 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 24 recibido correctamente. Latencia total: 145.22 ms.
+[2026-07-06 17:39:55] Paquete 25 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 25 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 26 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 26 recibido correctamente. Latencia total: 141.49 ms.
+[2026-07-06 17:39:55] Paquete 27 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 27 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 28 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 28 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 29 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 29 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 30 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 30 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 31 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 31 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 32 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 32 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 33 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 33 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 34 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 34 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 35 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 35 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 36 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 36 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 37 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 37 recibido correctamente. Latencia total: 142.59 ms.
+[2026-07-06 17:39:55] Paquete 38 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 38 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 39 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 39 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 40 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 40 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 41 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 41 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Paquete 42 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 42 recibido correctamente. Latencia total: 145.43 ms.
+[2026-07-06 17:39:55] Paquete 43 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 43 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 44 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 44 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 45 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 45 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 46 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 46 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:39:55] Paquete 47 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 47 recibido correctamente. Latencia total: 142.31 ms.
+[2026-07-06 17:39:55] Paquete 48 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 48 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:39:55] Paquete 49 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 49 recibido correctamente. Latencia total: 146.52 ms.
+[2026-07-06 17:39:55] Paquete 50 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:39:55] Paquete 50 perdido en enlace Router_LAN -> Host_B.
+[2026-07-06 17:39:55] Simulación finalizada.
+[2026-07-06 17:39:55] Métricas finales: {'paquetes_enviados': 50, 'paquetes_recibidos': 13, 'paquetes_perdidos': 37, 'tasa_perdida': 74.0, 'latencia_promedio': 142.43, 'throughput': 26.0, 'eventos_congestion': 0}
+[2026-07-06 17:40:16] Resultados exportados en CSV: exports\csv\resultados_simulacion.csv
+[2026-07-06 17:40:24] Iniciando simulación en red LAN.
+[2026-07-06 17:40:24] Origen: Host_A | Destino: Host_B
+[2026-07-06 17:40:24] Cantidad de paquetes: 21
+[2026-07-06 17:40:24] Paquete 1 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 1 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:40:24] Paquete 2 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 2 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 3 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 3 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 4 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 4 recibido correctamente. Latencia total: 137.87 ms.
+[2026-07-06 17:40:24] Paquete 5 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 5 perdido en enlace Switch_1 -> Router_LAN.
+[2026-07-06 17:40:24] Paquete 6 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 6 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 7 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 7 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 8 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 8 recibido correctamente. Latencia total: 141.32 ms.
+[2026-07-06 17:40:24] Paquete 9 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 9 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 10 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 10 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 11 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 11 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 12 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 12 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 13 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 13 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 14 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 14 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 15 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Paquete 15 recibido correctamente. Latencia total: 144.68 ms.
+[2026-07-06 17:40:24] Paquete 16 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 16 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 17 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 17 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 18 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 18 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 19 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 19 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 20 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 20 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 21 enviado desde 192.168.1.10 hacia 192.168.1.20.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Congestión detectada en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Paquete 21 perdido en enlace Host_A -> Switch_1.
+[2026-07-06 17:40:24] Simulación finalizada.
+[2026-07-06 17:40:24] Métricas finales: {'paquetes_enviados': 21, 'paquetes_recibidos': 3, 'paquetes_perdidos': 18, 'tasa_perdida': 85.71, 'latencia_promedio': 141.29, 'throughput': 14.29, 'eventos_congestion': 6}
+[2026-07-06 17:40:36] Resultados exportados en CSV: exports\csv\resultados_simulacion.csv
+[2026-07-06 17:40:46] Análisis con Pandas y NumPy ejecutado correctamente.
+[2026-07-06 17:41:08] Red WAN configurada.
+[2026-07-06 17:41:12] Iniciando simulación en red WAN.
+[2026-07-06 17:41:12] Origen: Host_Origen | Destino: Host_Destino
+[2026-07-06 17:41:12] Cantidad de paquetes: 200
+[2026-07-06 17:41:12] Paquete 1 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Paquete 1 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 2 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Paquete 2 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 3 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Paquete 3 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 4 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Paquete 4 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 5 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 5 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 6 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 6 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 7 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 7 recibido correctamente. Latencia total: 148.39 ms.
+[2026-07-06 17:41:12] Paquete 8 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 8 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 9 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 9 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 10 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 10 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 11 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 11 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 12 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 12 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 13 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 13 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 14 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 14 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 15 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 15 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 16 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 16 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 17 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 17 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 18 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 18 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 19 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 19 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 20 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 20 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 21 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 21 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 22 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 22 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 23 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 23 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 24 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 24 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 25 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 25 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 26 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 26 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 27 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 27 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 28 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 28 recibido correctamente. Latencia total: 210.95 ms.
+[2026-07-06 17:41:12] Paquete 29 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 29 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 30 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 30 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 31 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 31 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 32 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 32 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 33 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 33 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 34 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 34 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 35 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 35 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 36 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 36 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 37 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 37 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 38 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 38 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 39 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 39 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 40 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 40 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 41 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 41 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 42 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 42 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 43 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 43 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 44 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 44 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 45 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 45 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 46 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 46 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 47 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 47 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 48 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 48 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 49 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 49 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 50 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 50 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 51 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 51 recibido correctamente. Latencia total: 269.01 ms.
+[2026-07-06 17:41:12] Paquete 52 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 52 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 53 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 53 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 54 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 54 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 55 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 55 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 56 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 56 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 57 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 57 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 58 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 58 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 59 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 59 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 60 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 60 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 61 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 61 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 62 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 62 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 63 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 63 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 64 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 64 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 65 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 65 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 66 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 66 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 67 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 67 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 68 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 68 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 69 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 69 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 70 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 70 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 71 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 71 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 72 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 72 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 73 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 73 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 74 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 74 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 75 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 75 recibido correctamente. Latencia total: 330.13 ms.
+[2026-07-06 17:41:12] Paquete 76 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 76 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 77 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 77 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 78 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 78 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 79 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 79 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 80 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 80 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 81 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 81 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 82 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 82 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 83 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 83 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 84 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 84 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 85 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 85 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 86 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 86 recibido correctamente. Latencia total: 366.64 ms.
+[2026-07-06 17:41:12] Paquete 87 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 87 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 88 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 88 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 89 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 89 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 90 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 90 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 91 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 91 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 92 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 92 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 93 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 93 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 94 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 94 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 95 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 95 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 96 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 96 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 97 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 97 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 98 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 98 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 99 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 99 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 100 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 100 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 101 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 101 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 102 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 102 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 103 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 103 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 104 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 104 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 105 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 105 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 106 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 106 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 107 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 107 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 108 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 108 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 109 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 109 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 110 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 110 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 111 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 111 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 112 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 112 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 113 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 113 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 114 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 114 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 115 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 115 recibido correctamente. Latencia total: 452.63 ms.
+[2026-07-06 17:41:12] Paquete 116 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 116 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 117 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 117 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 118 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 118 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 119 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 119 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 120 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 120 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 121 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 121 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 122 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 122 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 123 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 123 recibido correctamente. Latencia total: 471.83 ms.
+[2026-07-06 17:41:12] Paquete 124 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 124 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 125 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 125 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 126 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 126 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 127 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 127 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 128 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 128 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 129 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 129 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 130 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 130 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 131 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 131 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 132 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 132 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 133 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 133 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 134 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 134 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 135 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 135 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 136 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 136 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 137 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 137 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 138 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 138 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 139 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 139 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 140 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 140 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 141 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 141 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 142 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 142 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 143 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 143 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 144 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 144 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 145 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 145 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 146 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 146 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 147 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 147 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 148 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 148 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 149 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 149 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 150 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 150 recibido correctamente. Latencia total: 579.4 ms.
+[2026-07-06 17:41:12] Paquete 151 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 151 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 152 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 152 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 153 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 153 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 154 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 154 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 155 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 155 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 156 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:12] Paquete 156 recibido correctamente. Latencia total: 607.75 ms.
+[2026-07-06 17:41:12] Paquete 157 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 157 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 158 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 158 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 159 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 159 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:12] Paquete 160 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 160 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 161 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 161 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 162 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 162 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 163 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:12] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:12] Paquete 163 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 164 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 164 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 165 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 165 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 166 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 166 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 167 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 167 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 168 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 168 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 169 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 169 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 170 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 170 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 171 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 171 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 172 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 172 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 173 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 173 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 174 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 174 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 175 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 175 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 176 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 176 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 177 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 177 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 178 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 178 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 179 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 179 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 180 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 180 recibido correctamente. Latencia total: 686.07 ms.
+[2026-07-06 17:41:13] Paquete 181 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 181 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 182 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 182 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 183 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 183 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 184 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 184 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 185 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 185 perdido en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 186 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 186 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 187 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 187 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 188 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 188 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 189 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 189 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 190 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 190 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 191 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 191 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 192 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 192 recibido correctamente. Latencia total: 721.34 ms.
+[2026-07-06 17:41:13] Paquete 193 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 193 perdido en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Paquete 194 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 194 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 195 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 195 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 196 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 196 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 197 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 197 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 198 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Lima -> Router_Remoto.
+[2026-07-06 17:41:13] Congestión detectada en enlace Router_Remoto -> Host_Destino.
+[2026-07-06 17:41:13] Paquete 198 recibido correctamente. Latencia total: 739.53 ms.
+[2026-07-06 17:41:13] Paquete 199 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 199 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 200 enviado desde 10.0.0.10 hacia 172.16.0.20.
+[2026-07-06 17:41:13] Congestión detectada en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Paquete 200 perdido en enlace Host_Origen -> Router_Lima.
+[2026-07-06 17:41:13] Simulación finalizada.
+[2026-07-06 17:41:13] Métricas finales: {'paquetes_enviados': 200, 'paquetes_recibidos': 12, 'paquetes_perdidos': 188, 'tasa_perdida': 94.0, 'latencia_promedio': 465.31, 'throughput': 0.6, 'eventos_congestion': 196}
+[2026-07-06 17:42:47] Sistema cerrado.
